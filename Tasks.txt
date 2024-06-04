@@ -1,0 +1,10 @@
+const profile = {
+  name: 'A***m M**r',
+  age: 16,
+  country: 'Israel',
+  gmail: 'yte***68@gmail.com',
+  experience: age.toString().slice(0, 1) + " year",
+  appName: 'GetTogetherGo',
+  goal: ['1K downloads', "SUCCESS!"],  
+  socialMediaApps: undefined
+};
